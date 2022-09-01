@@ -1,0 +1,19 @@
+/*----- Test default -----*/
+.testDefault{
+    width: 300px;
+    background-color: #61c9e1;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    margin: 20px 0;
+}
+.testDefault__title {
+    font-size: 45px;
+}
+.testDefault__img img{
+    max-width: 100%;
+}
+
+.mrgTop{
+    margin-top: 15px;
+}
